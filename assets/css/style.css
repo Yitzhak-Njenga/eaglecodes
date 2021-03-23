@@ -583,7 +583,7 @@ position: relative;}
    #arrow{
      position: absolute;
      top:60%;
-     font-size: smaller;
+     font-size: 60px;
    }
    #particles-js{
 

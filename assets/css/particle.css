@@ -30,9 +30,9 @@ body {
     position: absolute;
     top: 48px;
     left: 0;
-    width: 80px;
+    width: 90px;
     color: #13E8E9;
-    font-size: .8em;
+    font-size: .9em;
     text-align: left;
     text-indent: 4px;
     line-height: 14px;
@@ -42,7 +42,7 @@ body {
   }
   
   .js-count-particles{
-    font-size: 1.1em;
+    font-size: 2.1em;
   }
   
   #stats,
@@ -57,4 +57,7 @@ body {
   
   .count-particles{
     border-radius: 0 0 3px 3px;
+  }
+  .carousel-item{
+    margin-top: 80px;
   }
